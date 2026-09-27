@@ -1,0 +1,11 @@
+echo .env>>.gitignore
+echo .env.*>>.gitignore
+echo venv/>>.gitignore
+echo .venv/>>.gitignore
+echo node_modules/>>.gitignore
+echo __pycache__/>>.gitignore
+echo *.pyc>>.gitignore
+echo dist/>>.gitignore
+echo build/>>.gitignore
+echo .idea/>>.gitignore
+echo .vscode/>>.gitignore
